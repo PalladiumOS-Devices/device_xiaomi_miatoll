@@ -30,3 +30,5 @@ BUILD_FINGERPRINT := google/walleye/walleye:8.1.0/OPM1.171019.011/4448085:user/r
 PALLADIUM_BUILD_TYPE := OFFICIAL
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.palladium.maintainer=Lokesh
+# Quick Tap
+TARGET_SUPPORTS_QUICK_TAP := true
